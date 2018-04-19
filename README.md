@@ -28,7 +28,7 @@ This has the Swagger OpenAPI layer built in for easy execution of REST.
 Open Source project here: [https://github.com/davidjohngee/gope](https://github.com/davidjohngee/gope)
 
 
-####Contact Details
+#### Contact Details
 Email:	[david.gee@ipengineer.net](mailto: david.gee@ipengineer.net)
 Twitter:	[@VTEP42](https://twitter.com/vtep42)
 Skype:	[david.g33](skype:david.g33?call)
