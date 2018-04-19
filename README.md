@@ -34,5 +34,3 @@ Twitter:	[@VTEP42](https://twitter.com/vtep42)
 Skype:	[david.g33](skype:david.g33?call)
 Blog:	[http://ipengineer.net](http://ipengineer.net) / [http://davidg.ee](http://davidg.ee) (both links take you to the same blog)
 Podcasts cohost for Ivan Pepelnjak:	[http://www.ipspace.net/Podcast/Software_Gone_Wild](http://www.ipspace.net/Podcast/Software_Gone_Wild)
----
-
